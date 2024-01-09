@@ -1,5 +1,5 @@
 # chess-vision
- Reads an image of a chessboard using YOLOv8 and outputs it in FEN, by Bernie Chen and Harry Xiang.
+ Reads an image of a chessboard using YOLOv8 and outputs it in FEN, by Bernie Chen and [Harry Xiang](https://github.com/CQMian).
  
  Some concepts and code were adapted from Shai Nisan's blog post on Roboflow [here](https://blog.roboflow.com/chess-boards/). This project was mainly a way to learn and apply AI image processing tools, specifically the Roboflow platform and YOLOv8 models.
 
